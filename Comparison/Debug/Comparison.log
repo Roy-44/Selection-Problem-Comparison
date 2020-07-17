@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\orel moshe\documents\visual studio 2015\projects\comparison\comparison\main.cpp(55): warning C4172: returning address of local variable or temporary
+  Comparison.vcxproj -> C:\Users\Orel Moshe\Documents\Visual Studio 2015\Projects\Comparison\Debug\Comparison.exe
+  Comparison.vcxproj -> C:\Users\Orel Moshe\Documents\Visual Studio 2015\Projects\Comparison\Debug\Comparison.pdb (Partial PDB)
